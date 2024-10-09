@@ -1,0 +1,8 @@
+.headerText {
+  font-family: 29px;
+}
+@media (max-width: 991px) {
+  .headerText {
+    font-size: 25px;
+  }
+}

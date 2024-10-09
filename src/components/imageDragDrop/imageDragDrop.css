@@ -1,0 +1,10 @@
+.file-uploader {
+    color: white;
+    background-color: white;
+    border: none !important;
+    padding: 23px 14px !important;
+  }
+
+  .file-uploader:hover {
+    /* background-color: #f3f3f3; Slightly darker on hover */
+  }
